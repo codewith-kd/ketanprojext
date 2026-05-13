@@ -1,0 +1,491 @@
+* {
+    margin: 0%;
+}
+
+.navbar {
+    height: 60px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    width: 1512px;
+    
+}
+
+.amezonlogo {
+    background-image: url(Amazon-Logo-Black.jpg);
+    height: 60px;
+    width: 114px;
+    background-color: none;
+    background-size: cover;
+}
+
+#d1 {
+    color: #cccccc;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.85rem;
+}
+
+#d2 {
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+}
+
+.india {
+    display: flex;
+    align-items: center;
+
+
+}
+
+.delivertoindia {
+    margin-top: 15px;
+}
+
+
+
+.select:hover {
+    border: 2px solid orange;
+}
+
+.secarch:hover {
+    border: 2px solid orange;
+}
+
+.icon:hover {
+    border: 2px solid orange;
+}
+
+.amezonsearch {
+    display: flex;
+    justify-content: space-evenly;
+    background-color:pink;
+    width: 620px;
+    height: 40px;
+    border-radius: 4px;
+    margin-top: 11px;
+
+}
+
+.select {
+    background-color: #f3f3f3;
+    width: 50px;
+    text-align: center;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border: none;
+    color: #0f1111;
+    height: 40px;
+
+}
+
+.secarch {
+    width: 100%;
+    font-size: 1rem;
+    border: none;
+
+}
+
+.icon {
+    width: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    background-color: #febd68;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    color: black;
+}
+
+.box4 {
+    margin-top: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.first {
+    font-size: 12px;
+}
+
+.secound {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.box5 {
+    display: flex;
+    margin-bottom: 10px;
+    align-items: center;
+}
+
+.outer {
+    height: 26px;
+    width: 38px;
+    font-size: 33px;
+
+}
+
+.inner1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-top: 18px;
+}
+
+.navbar2 {
+    background-color: #0f1111;
+    height: 40px;
+    width: 1513px;
+}
+
+.navbar2 {
+    display: flex;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+.nav2 {
+    display: flex;
+    width: 36%;
+    font-size: 14px;
+    justify-content: space-evenly;
+    padding-right: 700px;
+    margin-left: 0px;
+
+}
+
+.hero {
+    background-image: url(hero.jpg);
+    height: 400px;
+    width: 1513px;
+    background-size: cover;
+
+
+}
+
+.hero1 {
+    background-color: #f5f6f6;
+    height: 40px;
+    width: 1222px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    text-align: center;
+    margin-top: 300px;
+    position: absolute;
+    margin-left: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero2 {
+    text-decoration: none;
+}
+
+.box {
+    padding: 20px 0px 15px;
+    height: 380px;
+    width: 290px;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+
+}
+
+.herobox {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: #e2e7e6;
+    height: 100%;
+    padding: 20px 20px 20px 20px;
+    width: 1512px;
+    
+
+}
+
+.box {
+
+    height: 450px;
+    width: 23%;
+}
+
+.box p {
+    color: #2162A1;
+    margin: 10px 0px 20px;
+    padding: 0px 20px;
+}
+
+h2 {
+    margin: 0px 0px 20px;
+    padding: 0px 20px;
+}
+
+h3 {
+    margin: 0px 0px 20px;
+    padding: 0px 20px;
+}
+
+.boximg1 {
+    background-image: url(box1.jpg);
+    background-size: cover;
+    height: 370px;
+    width: 300px;
+    margin-left: 20px;
+    margin-top: 20px;
+    
+}
+
+.boximg2 {
+    background-image: url(box2.jpg);
+    background-size: cover;
+    height: 370px;
+    width: 300px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.boximg3 {
+    background-image: url(box3.jpg);
+    background-size: cover;
+    height: 370px;
+    width: 300px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.boximg4 {
+    background-image: url(box4.jpg);
+    background-size: cover;
+    height: 370px;
+    width: 300px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.boximg5 {
+    background-image: url(box5.jpg);
+    background-size: cover;
+    height: 370px;
+    width: 300px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.boximg6 {
+    background-image: url(box6.jpg);
+    background-size: cover;
+    height: 370px;
+    width: 300px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.boximg7 {
+    background-image: url(box7.jpg);
+    background-size: cover;
+    height: 370px;
+    width: 300px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.boximg8 {
+    background-image: url(box8.jpg);
+    background-size: cover;
+    height: 370px;
+    width: 300px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.boximg9 {
+    background-image: url(box9.jpg);
+    background-size: cover;
+    height: 370px;
+    width: 300px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.boximg10 {
+    background-image: url(box10.jpg);
+    background-size: cover;
+    height: 370px;
+    width: 300px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.boximg11 {
+    background-image: url(box11.jpg);
+    background-size: cover;
+    height: 370px;
+    width: 300px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.boximg12 {
+    background-image: url(box12.jpg);
+    background-size: cover;
+    height: 370px;
+    width: 300px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.foot1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 10px;
+    color: black;
+    font-weight: bold
+}
+
+.foot2 {
+    text-align: center;
+}
+
+.ankar {
+    text-decoration: none;
+    color: #2162A1;
+
+}
+
+#button {
+    height: 30px;
+    width: 144px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-style: none;
+    background-color: #ffd814;
+    padding: 5px 11px;
+}
+
+.foot3 {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.seclast {
+    background-color: #e2e7e6;
+    height: 150px;
+    width: 1513px;
+}
+
+.foot-pannel {
+    background-color: #37475A;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1513px;
+    height: 50px;
+    color: white;
+}
+
+.lastone {
+    background-color: #232F3F;
+    width: 1513px;
+    height: 400px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.lastone p {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 33px;
+    font-weight: bold;
+    font-size: 16px;
+    color: white;
+}
+
+ul a {
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #DDDDDD;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.lastk {
+    width: 1513px;
+    height: 300px;
+    background-color: #232F3E;
+}
+
+.inr {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.last {
+    display: inline;
+    margin: 0px 15px 0px 15px;
+}
+
+.selectoption {
+    margin: 0px 15px 0px 15px;
+    width: 160px;
+    height: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #CCCCCC;
+    background-color: #232F3E;
+}
+
+.selectbox {
+    display: inline;
+    width: 160px;
+    height: 35px;
+    color: #CCCCCC;
+    background-color: #232F3E;
+}
+
+select {
+    width: 160px;
+    height: 35px;
+    color: #CCCCCC;
+    background-color: #232F3E;
+}
+
+.last1 {
+    width: 1513px;
+    height: 150px;
+    background-color: #232F3E;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.last2 {
+    width: 1513px;
+    height: 65px;
+    background-color: #131a22;
+    color: #DDDDDD;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.tag {
+    color: #DDDDDD;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    text-decoration: none;
+    text-align: center;
+}
+
+.clas {
+    color: #CCCCCC;
+    text-decoration: none;
+}
